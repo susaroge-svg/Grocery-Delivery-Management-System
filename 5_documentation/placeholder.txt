@@ -1,0 +1,3 @@
+Project Documentation
+
+This folder will contain the system requirements documentation, brochure, and presentation slides for the Grocery Delivery Management System project.
