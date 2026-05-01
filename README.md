@@ -17,5 +17,4 @@ Folders:
 4_data_collection – explanation of data handling  
 5_documentation – project documents  
 
-The system design originally included an in-memory data handling approach.
-The final implementation simplifies this for demonstration purposes.
+
