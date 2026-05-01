@@ -17,4 +17,4 @@ Folders:
 4_data_collection – explanation of data handling  
 5_documentation – project documents  
 
-
+The system uses in-memory data handling to manage users, products, orders, and deliveries during runtime.
