@@ -1,5 +1,6 @@
 Data Collection
 
-This project does not use automated data collection scripts.
+This project does not require external data collection.
 
-Sample data is stored directly in the Java application using in-memory data structures for demonstration purposes.
+All data is handled within the application during runtime.
+
