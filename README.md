@@ -1,10 +1,11 @@
-# Grocery-Delivery-Management-System
+# Grocery Delivery Management System
+## Demo Video
+https://1751071.kaf.kaltura.com/media/video1368678984/1_t17sdsq6
 Java NetBeans project for a Grocery Delivery Management System using in-memory data storage.
 Grocery Delivery Management System
 
 This project is a Java-based desktop application built in NetBeans that allows users to manage grocery products, orders, and deliveries.
 
-Demo Link:
 
 How to Run:
 1. Open in NetBeans
